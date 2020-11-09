@@ -24,7 +24,7 @@
   To install necessary dependencies, run the following command:
   
   ```
-  npm i
+  npm install
   ```
   
   ## Usage
@@ -44,7 +44,7 @@
   To run tests, run the following command:
   
   ```
-  npm test
+  npm run test
   ```
   
   ## Questions
