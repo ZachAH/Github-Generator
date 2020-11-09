@@ -48,7 +48,7 @@
   ```
   
  ## Walkthrough Video
- <iframe src="https://drive.google.com/file/d/12KsyeA60Xdj5KX0xbLHRBCQtbdPf8v-1/preview" width="640" height="480"></iframe>
+ [![GitHub Team Generator](https://res.cloudinary.com/marcomontalbano/image/upload/v1604889388/video_to_markdown/images/google-drive--12KsyeA60Xdj5KX0xbLHRBCQtbdPf8v-1-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/12KsyeA60Xdj5KX0xbLHRBCQtbdPf8v-1/preview "GitHub Team Generator")
  
  ## Questions
   
