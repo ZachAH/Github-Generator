@@ -47,6 +47,9 @@
   npm run test
   ```
   
-  ## Questions
+ ## Walkthrough Video
+ <iframe src="https://drive.google.com/file/d/12KsyeA60Xdj5KX0xbLHRBCQtbdPf8v-1/preview" width="640" height="480"></iframe>
+ 
+ ## Questions
   
   If you have any questions about the repo, open an issue or contact me directly at etta1055@gmail.com. You can find more of my work at [ZachAH](https://github.com/ZachAH/).
